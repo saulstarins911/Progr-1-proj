@@ -1,2 +1,2 @@
-Mans pirmais repozitorijs
-Ūdens ir garšīgs
+Šis ir mans pirmais repozitorijs
+Ūdens ir ļoti garšīgs
